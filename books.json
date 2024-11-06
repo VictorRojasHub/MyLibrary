@@ -1,0 +1,186 @@
+[
+    {
+        "titulo": "To Kill a Mockingbird",
+        "ano_lancamento": 1960,
+        "autor": "Harper Lee",
+        "numero_paginas": 281,
+        "isbn": "978-0-06-112008-4",
+        "foto_capa": "https://books.google.com/books/content?id=Fde3YTVeXVkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "1984",
+        "ano_lancamento": 1949,
+        "autor": "George Orwell",
+        "numero_paginas": 328,
+        "isbn": "978-0-452-28423-4",
+        "foto_capa": "https://books.google.com/books/content?id=Vgq0AAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "Pride and Prejudice",
+        "ano_lancamento": 1813,
+        "autor": "Jane Austen",
+        "numero_paginas": 279,
+        "isbn": "978-0-19-953556-9",
+        "foto_capa": "https://books.google.com/books/content?id=4fFiAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Great Gatsby",
+        "ano_lancamento": 1925,
+        "autor": "F. Scott Fitzgerald",
+        "numero_paginas": 180,
+        "isbn": "978-0-7432-7356-5",
+        "foto_capa": "https://books.google.com/books/content?id=hdV96NjRZ0kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "Moby Dick",
+        "ano_lancamento": 1851,
+        "autor": "Herman Melville",
+        "numero_paginas": 720,
+        "isbn": "978-0-14-243724-7",
+        "foto_capa": "https://books.google.com/books/content?id=qVgBB0gCrwEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "War and Peace",
+        "ano_lancamento": 1869,
+        "autor": "Leo Tolstoy",
+        "numero_paginas": 1225,
+        "isbn": "978-0-14-303999-0",
+        "foto_capa": "https://books.google.com/books/content?id=OcTZ8U64M0wC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Catcher in the Rye",
+        "ano_lancamento": 1951,
+        "autor": "J.D. Salinger",
+        "numero_paginas": 214,
+        "isbn": "978-0-316-76948-0",
+        "foto_capa": "https://books.google.com/books/content?id=ZuRif1LsTFkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "Brave New World",
+        "ano_lancamento": 1932,
+        "autor": "Aldous Huxley",
+        "numero_paginas": 268,
+        "isbn": "978-0-06-085052-4",
+        "foto_capa": "https://books.google.com/books/content?id=dUoVraH2knwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Grapes of Wrath",
+        "ano_lancamento": 1939,
+        "autor": "John Steinbeck",
+        "numero_paginas": 464,
+        "isbn": "978-0-14-303943-3",
+        "foto_capa": "https://books.google.com/books/content?id=O9s8BgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Hobbit",
+        "ano_lancamento": 1937,
+        "autor": "J.R.R. Tolkien",
+        "numero_paginas": 310,
+        "isbn": "978-0-618-26030-0",
+        "foto_capa": "https://books.google.com/books/content?id=t1XoDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "ano_lancamento": 1953,
+        "autor": "Ray Bradbury",
+        "numero_paginas": 158,
+        "isbn": "978-0-7432-4722-1",
+        "foto_capa": "https://books.google.com/books/content?id=q8aMOn8vCrIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Picture of Dorian Gray",
+        "ano_lancamento": 1890,
+        "autor": "Oscar Wilde",
+        "numero_paginas": 254,
+        "isbn": "978-0-14-143957-0",
+        "foto_capa": "https://books.google.com/books/content?id=mpCPsDNw9gIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "ano_lancamento": 1954,
+        "autor": "J.R.R. Tolkien",
+        "numero_paginas": 423,
+        "isbn": "978-0-618-25350-0",
+        "foto_capa": "https://books.google.com/books/content?id=QmEEWgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Da Vinci Code",
+        "ano_lancamento": 2003,
+        "autor": "Dan Brown",
+        "numero_paginas": 489,
+        "isbn": "978-0-385-50420-8",
+        "foto_capa": "https://books.google.com/books/content?id=FBR65yaSkpMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "Harry Potter and the Sorcerer's Stone",
+        "ano_lancamento": 1997,
+        "autor": "J.K. Rowling",
+        "numero_paginas": 309,
+        "isbn": "978-0-590-35340-3",
+        "foto_capa": "https://books.google.com/books/content?id=I4YdAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Alchemist",
+        "ano_lancamento": 1988,
+        "autor": "Paulo Coelho",
+        "numero_paginas": 208,
+        "isbn": "978-0-06-231500-7",
+        "foto_capa": "https://books.google.com/books/content?id=TFcxDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Fault in Our Stars",
+        "ano_lancamento": 2012,
+        "autor": "John Green",
+        "numero_paginas": 313,
+        "isbn": "978-0-525-47881-2",
+        "foto_capa": "https://books.google.com/books/content?id=f0x1AQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "ano_lancamento": 1950,
+        "autor": "C.S. Lewis",
+        "numero_paginas": 208,
+        "isbn": "978-0-06-440499-0",
+        "foto_capa": "https://books.google.com/books/content?id=hiV4nAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Kite Runner",
+        "ano_lancamento": 2003,
+        "autor": "Khaled Hosseini",
+        "numero_paginas": 371,
+        "isbn": "978-1-59420-001-9",
+        "foto_capa": "https://books.google.com/books/content?id=F2y1Z3wxQ2EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Catcher in the Rye",
+        "ano_lancamento": 1951,
+        "autor": "J.D. Salinger",
+        "numero_paginas": 277,
+        "isbn": "978-0-316-76948-0",
+        "foto_capa": "https://books.google.com/books/content?id=7Uo4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Handmaid's Tale",
+        "ano_lancamento": 1985,
+        "autor": "Margaret Atwood",
+        "numero_paginas": 311,
+        "isbn": "978-0-385-72298-7",
+        "foto_capa": "https://books.google.com/books/content?id=ZPBRd01ON14C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "The Hitchhiker's Guide to the Galaxy",
+        "ano_lancamento": 1979,
+        "autor": "Douglas Adams",
+        "numero_paginas": 224,
+        "isbn": "978-0-345-39180-3",
+        "foto_capa": "https://books.google.com/books/content?id=SoH0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+        "titulo": "A Game of Thrones",
+        "ano_lancamento": 1996,
+        "autor": "George R.R. Martin",
+        "numero_paginas": 694,
+        "isbn": "978-0-553-10354-0",
+        "foto_capa": "https://books.google.com/books/content?id=WIBV-1Zq4LkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    }
+]
