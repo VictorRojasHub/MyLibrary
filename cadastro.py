@@ -9,7 +9,7 @@ import bcrypt
 import re
 
 # Conexão apontando para o mongoDB
-
+#here goes your connection string
 db = client['BooksDB']
 collection = db['users'] 
 
